@@ -60,7 +60,7 @@ plugins:
 author:
   name   : "Daniel Hall"
   avatar : "/assets/images/bio-photo.jpg"
-  bio    : "My awesome biography constrained to a sentence or two goes here."
+  bio    : "Biomechanical Engineering PhD Student at Trinity College Dublin."
   links:
     - label: "Website"
       icon: "fas fa-fw fa-link"
