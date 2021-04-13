@@ -114,3 +114,5 @@ tag_archive:
   type: liquid
   path: /tags/
 
+
+theme: jekyll-theme-time-machine
