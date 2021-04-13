@@ -3,5 +3,6 @@ permalink: /about/
 title: "About"
 ---
 
-Biomechanical Engineering Postgraduate Research Student at Trinity College.
-Graduated with a BAI in 2020
+I am currently working on a PhD in Biomechanical Engineering at Trinity College Dublin which started in 2021.
+
+I graduated from Trinity with a BAI in 2020.
