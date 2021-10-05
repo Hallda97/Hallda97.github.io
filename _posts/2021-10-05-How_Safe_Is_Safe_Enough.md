@@ -40,4 +40,8 @@ A common metric which can be used in determining the risk of such injuries is ca
   <img src="/assets/images/HIC_Risk_Graph.jpg" width="700">
 </p>
 
-Now that we know how HIC scores are related to injury risklets take a look at the maximum HIC scores needed to achieve a high safety rating. In other words how much risk is considered an acceptable amount by vehicle safety organisations. 
+
+## Vehicle Safety Assessment ##
+There will always be some amount of risk to head injury in a collision with a car. It would be unreasonable to think that we can a human head colliding with a moving car with a 0% risk of head injury. However now that we know how HIC scores are related to injury risk lets take a look at the maximum HIC scores needed to achieve a high safety rating. In other words how much risk is considered an acceptable amount by vehicle safety organisations. 
+
+
