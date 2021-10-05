@@ -46,5 +46,7 @@ There will always be some amount of risk to head injury in a collision with a ca
 
 **EUNCAP Head Impactor**
 <p align="center">
-  <img src="/assets/images/EUNCAP_Head_Impactor.png.jpg" width="700">
+  <img src="/assets/images/EUNCAP_Head_Impactor.png" width="700">
 </p>
+
+The above picture from the European New Car Assesment Programme's  <a href="https://www.euroncap.com/en/vehicle-safety/the-ratings-explained/vulnerable-road-user-vru-protection/head-impact/" target="_blank">website</a>
