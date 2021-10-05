@@ -22,9 +22,6 @@ In this post I will be looking at what it takes to get these high safety scores 
 ## Head Injury ##
 An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. These range from AIS1 which is a minor head injury to an AIS5 which is a critical head injury.
 
-A common metric which can be used in determining the risk of such injuries is called the Head Injury Criterion or HIC. The Hic score is a measure of the likelihood of a head injury due to an impact. It is derived from the maximum acceleration in g's experienced by the head during a very small time window. This is usually calculated during a test by using accelerometers placed inside the crash dummies head. The standard time window t2-t1 is 15ms and can reach a maximum of 32ms
-
-<p align="center">
 |    AIS   |   Severity |
 |----------|:----------:|
 |    1     |  Minor     |
@@ -32,6 +29,10 @@ A common metric which can be used in determining the risk of such injuries is ca
 |    3     |  Serious   |
 |    4     |  Severe    |
 |    5     |  Critical  |
+
+A common metric which can be used in determining the risk of such injuries is called the Head Injury Criterion or HIC. The Hic score is a measure of the likelihood of a head injury due to an impact. It is derived from the maximum acceleration in g's experienced by the head during a very small time window. This is usually calculated during a test by using accelerometers placed inside the crash dummies head. The standard time window t2-t1 is 15ms and can reach a maximum of 32ms. The higher the HIC score the higher the likelihood you will experience a head injury as shown in this graph from Carlos Moure-Guardiola's <a href="https://www.researchgate.net/publication/347207927_Evaluation_of_Combat_Helmet_Behavior_under_Blunt_Impact">paper</a>.
+
+<p align="center">
   <img src="/assets/images/HIC_Equation.PNG" width="700">
 </p>
 
