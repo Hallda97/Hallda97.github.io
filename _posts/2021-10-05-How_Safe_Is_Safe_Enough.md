@@ -19,6 +19,16 @@ In this post I will be looking at what it takes to get these high safety scores 
 </p>
 
 
-# Head Injury #
-There are many different types of head injuries 
-When looking at head injury's a common metric which is used in determining the risk of such injuries is called the **Head Injury Criterion** or **HIC**. The higher the HIC score, the higher the risk of head injury.  
+## Head Injury ##
+An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. 
+
+AIS code | Severity
+------------ | -------------
+1 | Minor
+2 | Moderate
+3 | Serious
+4 | Severe
+5 | Critical
+
+
+When looking at head injury's a common metric which is used in determining the risk of such injuries is called the Head Injury Criterion** or HIC. The higher the HIC score, the higher the risk of head injury.  
