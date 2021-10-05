@@ -20,15 +20,18 @@ In this post I will be looking at what it takes to get these high safety scores 
 
 
 ## Head Injury ##
-An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. These range from AIS1 which is a minor head injury to an AIS5 which is a critical head injury
+An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. These range from AIS1 which is a minor head injury to an AIS5 which is a critical head injury.
 
-AIS code | Severity
------------- | -------------
-1 | Minor
-2 | Moderate
-3 | Serious
-4 | Severe
-5 | Critical
+<div align="center">
+  
+|    AIS   |   Severity |
+|----------|:----------:|
+|    1     |  Minor     |
+|    2     |  Moderate  |
+|    3     |  Serious   |
+|    4     |  Severe    |
+|    5     |  Critical  |
+  
+</div>
 
-
-When looking at head injury's a common metric which is used in determining the risk of such injuries is called the Head Injury Criterion** or HIC. The higher the HIC score, the higher the risk of head injury.  
+A common metric which is used in determining the risk of such injuries is called the Head Injury Criterion** or HIC. 
