@@ -20,7 +20,7 @@ In this post I will be looking at what it takes to get these high safety scores 
 
 
 ## Head Injury ##
-An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. 
+An Abriviated Injury Scale (AIS) was developed by emergency room physicians to quantify the severity of injuries to specific body parts such as the head. These range from AIS1 which is a minor head injury to an AIS5 which is a critical head injury
 
 AIS code | Severity
 ------------ | -------------
