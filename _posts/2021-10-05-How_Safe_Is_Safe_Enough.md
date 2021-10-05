@@ -36,3 +36,9 @@ A common metric which can be used in determining the risk of such injuries is ca
   <img src="/assets/images/HIC_Equation.PNG" width="700">
 </p>
 
+<p align="center">
+  <img src="/assets/images/HIC_Risk_Graph.jpg" width="700">
+</p>
+
+
+
