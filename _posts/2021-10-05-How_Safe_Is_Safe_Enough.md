@@ -25,7 +25,6 @@ An Abriviated Injury Scale (AIS) was developed by emergency room physicians to q
 A common metric which can be used in determining the risk of such injuries is called the Head Injury Criterion or HIC. The Hic score is a measure of the likelihood of a head injury due to an impact. It is derived from the maximum acceleration in g's experienced by the head during a very small time window. This is usually calculated during a test by using accelerometers placed inside the crash dummies head. The standard time window t2-t1 is 15ms and can reach a maximum of 32ms
 
 <p align="center">
-    
 |    AIS   |   Severity |
 |----------|:----------:|
 |    1     |  Minor     |
@@ -33,8 +32,6 @@ A common metric which can be used in determining the risk of such injuries is ca
 |    3     |  Serious   |
 |    4     |  Severe    |
 |    5     |  Critical  |
-  
-  
   <img src="/assets/images/HIC_Equation.PNG" width="700">
 </p>
 
