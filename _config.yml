@@ -59,7 +59,7 @@ plugins:
 
 author:
   name   : "Daniel Hall"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/Profile_Pic.png"
   bio    : "Biomechanical Engineering PhD Student at Trinity College Dublin."
   links:
     - label: "Website"
