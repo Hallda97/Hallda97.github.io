@@ -4,6 +4,7 @@ main:
  - title: "Pojects"
     url: /projects/
  - title: "Posts"
-    url: /posts/
- - title: "Tags"
     url: /tags/
+    
+ #- title: "Tags"
+ #   url: /tags/
