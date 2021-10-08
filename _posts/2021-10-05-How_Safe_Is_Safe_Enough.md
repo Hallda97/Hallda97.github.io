@@ -65,5 +65,5 @@ The range of allowable HIC scores is shown below.
 
 
 <p align="center">
-  <img src="/assets/images/EUNCAP_Head_Impactor.png" width="700">
+  <img src="/assets/images/HIC_Risk_Highlighted_Graph.PNG" width="700">
 </p>
