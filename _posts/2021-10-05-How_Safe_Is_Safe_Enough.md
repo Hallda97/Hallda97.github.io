@@ -55,6 +55,11 @@ This is far from a simple proceedure but in summary, the manufacturer estimates 
 
 The range of allowable HIC scores is shown below. 
 
+<p align="center">
+  <img src="/assets/images/HIC_Risk_Highlighted_Graph.PNG" width="700">
+</p>
+
+
 |    Colour   |      HIC Range     |  Score  | Risk of Severe (AIS4+ Injury) |
 |-------------|:------------------:|:-------:|:-----------------------------:|
 |    Green    |        HIC < 650   |    1    |              5%               |
@@ -64,6 +69,4 @@ The range of allowable HIC scores is shown below.
 |     Red     |  1700 < HIC        |    0    |             >85%              |
 
 
-<p align="center">
-  <img src="/assets/images/HIC_Risk_Highlighted_Graph.PNG" width="700">
-</p>
+
