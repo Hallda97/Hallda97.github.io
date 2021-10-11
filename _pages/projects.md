@@ -23,3 +23,16 @@ The idea for the first prototype was to create something that would charge a pac
 
 
 We presented this design and both prototypes to a panel of experts in 2018 and achieve second place in the national competition. I could not have achieved this without the help of our module's Teaching Assistant Anita who gave up so much of her own time to meet with us after college and during the summer to build these prototypes. 
+
+<p align="center">
+  <img src="/assets/images/Group_pic1.PNG" width="700">
+</p>
+
+<p align="center">
+  <img src="/assets/images/Group_pic2.PNG" width="700">
+</p>
+
+<p align="center">
+  <img src="/assets/images/Poster.PNG" width="700">
+</p>
+
