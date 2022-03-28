@@ -1,5 +1,5 @@
 ---
-title: "How Safe is Safe Enough"
+title: "How Safe is Safe Enough "
 Date: 2021-10-05
 categories:
   - Blog
